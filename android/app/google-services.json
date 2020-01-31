@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "865336209845",
+    "firebase_url": "https://consulta-terminos.firebaseio.com",
+    "project_id": "consulta-terminos",
+    "storage_bucket": "consulta-terminos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865336209845:android:4d85a255de7d31962929fc",
+        "android_client_info": {
+          "package_name": "com.example.conectar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "865336209845-8npvee2r6sickonlkulnpdc5gir7c83f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrlFlKfbOo-GT6AEveb7MiFK2ekQXhQYM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "865336209845-8npvee2r6sickonlkulnpdc5gir7c83f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "865336209845-9pac5hf5nnbf60upop0c3cp51mcts4gj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.juan.firefun"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865336209845:android:129859123ed5124f2929fc",
+        "android_client_info": {
+          "package_name": "com.example.second"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "865336209845-8npvee2r6sickonlkulnpdc5gir7c83f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrlFlKfbOo-GT6AEveb7MiFK2ekQXhQYM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "865336209845-8npvee2r6sickonlkulnpdc5gir7c83f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "865336209845-9pac5hf5nnbf60upop0c3cp51mcts4gj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.juan.firefun"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
